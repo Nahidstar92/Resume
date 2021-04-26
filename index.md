@@ -35,5 +35,5 @@ I am studying software engineering at Payame Noor University of North Tehran.
 
 ### Other Accounts
 -Gmail: Nahid.star92@gmail.com
-
-  Persian Resume: <a href=" "> Resume </a>
+- Quera Profile: <a href="https://quera.ir/profile/Nahidstar92">My Profile</a>
+- Persian Resume: <a href="https://nahidstar92.github.io/resume.farsi/"> Resume </a>
