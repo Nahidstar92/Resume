@@ -1,37 +1,30 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Nahidstar92/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://avatars.githubusercontent.com/u/73713988?v=4"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+I am Nahid Heydri I am studying software engineering at Payame Noor University of North Tehran.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Personal Information
 
-```markdown
-Syntax highlighted code block
+- First Name: Nahid
+- Last Name: Heydri
+- Birth Date: 1992/oct/5
+- Marriage Status: Married
 
-# Header 1
-## Header 2
-### Header 3
+### Skills
 
-- Bulleted
-- List
++ C++
++ C
++ HTML
 
-1. Numbered
-2. List
+### Languages
 
-**Bold** and _Italic_ and `Code` text
+- Persian(Advanced)
+- English(Normal)
 
-[Link](url) and ![Image](src)
-```
+### Other Accounts
+-Gmail: Nahid.star92@gmail.com
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nahidstar92/Resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  Persian Resume: <a href=" "> Resume </a>
