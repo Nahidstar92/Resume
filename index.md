@@ -4,13 +4,14 @@
 
 ### About Me
 
-I am Nahid Heydri I am studying software engineering at Payame Noor University of North Tehran.
+I am Nahid Heydri
+I am studying software engineering at Payame Noor University of North Tehran.
 
 ### Personal Information
 
 - First Name: Nahid
 - Last Name: Heydri
-- Birth Date: 1992/oct/5
+- Birth Date: 5/oct/1992
 - Marriage Status: Married
 
 ### Skills
@@ -18,6 +19,14 @@ I am Nahid Heydri I am studying software engineering at Payame Noor University o
 + C++
 + C
 + HTML
+
+### Favorites
+
+---
+<ol>
+  <li> travel </li>
+  <li> watch movie</li>
+</ol>
 
 ### Languages
 
